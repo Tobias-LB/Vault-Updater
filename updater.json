@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/Tobias-LB/Vault-Updater/raw/refs/heads/main/download/vault_1.0.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenNHOGRYckVLQUxrQmZNUUd4ZXFUdXJpYnc0ZHVUMGt5U0dyL0NwdkFJcXd5Y3EyVjRqRkxndEZWL2JaRHUrVHdiZHZnMWxXd2djUkF3d3hOaXl4K2t6dXZ4T05aR1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjg3MDI4CWZpbGU6dmF1bHRfMS4wLjBfeDY0LXNldHVwLmV4ZQpYbEM0U1JBRmIvS0gzSVNsakU3Y0lPY3hKV2k4MDhDRXo3cHFwWWVsRHVjNXNuRHBjOHpVZUJlak83YVdOd3lYOHdVSFRwODJtdCtGeGlYU1RpWjdBZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenNHOGRYckVLQUt2UzZPMWFaOEJEbGZZZEUrS2hlV1lZNzRmK29kcDAyQk5FN1lBTGd5a21mTjRFdVhtUWlnanNVbTZyZU1YcXpoeGN6Qnh6bm5lV0hYOWEyQ1Q0a1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjg3MzY5CWZpbGU6dmF1bHRfMS4wLjBfeDY0LXNldHVwLmV4ZQpmV3U0R3QwM2JESXBBd0pCMk8yUkhIMnFDWnNHZ0tySEk4bm1pUmkwUkVLbHpNay9HMngvTWt5VGNtSVh5QUVTZzRJYldyRUxHd3BPNmlBMEZORjdBUT09Cg==",
       "installMode": "passive"
     }
   }
