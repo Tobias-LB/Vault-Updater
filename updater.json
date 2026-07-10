@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "notes": "Release.",
+  "pub_date": "2026-07-10T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/Tobias-LB/Vault-Updater/raw/refs/heads/main/download/vault_1.0.0_x64-setup.exe",
+      "signature": "",
+      "installMode": "passive"
+    }
+  }
+}
